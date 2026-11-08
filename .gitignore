@@ -1,0 +1,12 @@
+﻿input/
+outputs/
+llm_judgments.json
+raw_outputs_full_run/
+raw_outputs_redacted/
+notes/
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.pyc
